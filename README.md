@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+
+I'm Pedro Ramos, a Computer Science and Information Systems student 🎓 who loves coding and learning new things 📚. Currently, I'm working as a Software Engineer intern at Dock 💼, where I'm focusing on backend development.
+
+👨‍💻 My tech stack includes Java, Spring framework and T-SQL. Although, I also had adventures myself with a little bit of Node.js, React.js, Python, some NoSQL and more 🛠️. I'm also a Linux user and passionate about open-source software 🐧. In fact, I'm looking for ways to contribute to the community and expand my knowledge, so let me know if you have some ideas I could help with 🤝.
+
+If you'd like to connect or learn more about my experience, feel free to check out my LinkedIn profile 🌐: https://www.linkedin.com/in/pedro-ramos-b6b179129/. Let's code together! 💻
 
 <!--
 **pdror/pdror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
